@@ -1,3 +1,7 @@
+Ansible Messenger — видеокодеки VP8 и VP9
+
+Происхождение кода Ansible Messenger: форк https://github.com/webmproject/libvpx.
+
 Welcome to the WebM VP8/VP9 Codec SDK!
 
 COMPILING THE APPLICATIONS/LIBRARIES:
